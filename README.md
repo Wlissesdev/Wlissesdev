@@ -6,9 +6,8 @@
 
 Aplicações, SaaS, ferramentas de dev, automações e dados/IA. Bem-vindo(a) ao meu GitHub!
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-fale_comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/559991628089)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-fale_comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5599981563369)
 [![GitHub](https://img.shields.io/badge/GitHub-Wlissesdev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wlissesdev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wlisses-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 </div>
 
@@ -145,9 +144,8 @@ Acredito que um bom produto é a soma de **código limpo, design cuidado e prop�
 
 ## 📫 Contato
 
-- 💬 **WhatsApp:** [falar comigo](https://wa.me/559991628089)
+- 💬 **WhatsApp:** [falar comigo](https://wa.me/5599981563369)
 - 🐙 **GitHub:** [@Wlissesdev](https://github.com/Wlissesdev)
-- 💼 **LinkedIn:** [Wlisses](https://www.linkedin.com/)
 
 <div align="center">
 <sub>Construindo com código, cuidado e propósito. 💜</sub>
