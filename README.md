@@ -102,6 +102,12 @@ Acredito que um bom produto é a soma de **código limpo, design cuidado e prop�
 | [**SAGA**](https://github.com/Wlissesdev/saga2.0) | Sistema de Acompanhamento e Gestão Acadêmica (áreas de aluno e professor) | HTML · JS · Firebase |
 | [**Nexus Learn**](https://github.com/Wlissesdev/nexus-learn) | Plataforma de aprendizado com gamificação e IA | Next.js · Prisma · IA |
 
+### 🎮 Jogos
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [**Parcel Shift**](https://github.com/Wlissesdev/parcelshift) | Jogo Roblox co-op de entrega em que a encomenda muda de tamanho, peso e física no percurso | Luau · Rojo |
+
 ### 🎬 Automação & Mídia
 
 | Projeto | Descrição | Stack |
