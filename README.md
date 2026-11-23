@@ -2,13 +2,12 @@
 
 # Olá, eu sou o Wlisses 👋
 
-**Desenvolvedor Full-Stack** — construo produtos web completos, do front-end à infraestrutura.
+**Desenvolvedor Full-Stack** — construo produtos web completos, do front-end à infraestrutura, com uso intenso de IA no processo (DeepSeek · Kimi · Nvidia NIM).
 
-Aplicações, SaaS, ferramentas de dev, dados/IA e pesquisa acadêmica. Bem-vindo(a) ao meu GitHub!
+Aplicações, SaaS, ferramentas de dev, automações e dados/IA. Bem-vindo(a) ao meu GitHub!
 
-[![Site](https://img.shields.io/badge/Site-musazip--ten.vercel.app-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://musazip-ten.vercel.app)
-[![Instagram](https://img.shields.io/badge/Instagram-@musa.zip-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/musa.zip/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-fale_comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/559991628089)
+[![GitHub](https://img.shields.io/badge/GitHub-Wlissesdev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wlissesdev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wlisses-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 </div>
@@ -19,11 +18,14 @@ Aplicações, SaaS, ferramentas de dev, dados/IA e pesquisa acadêmica. Bem-vind
 
 Sou **desenvolvedor full-stack** e gosto de pegar uma ideia e **levá-la até o produto final** — interface, back-end, banco de dados, integrações e deploy.
 
+- 🤖 **Desenvolvimento assistido por IA** — uso no dia a dia **DeepSeek**, **Kimi** e **Nvidia NIM** para acelerar o trabalho e elevar a qualidade do que entrego
 - 🛍️ Construo **SaaS, e-commerces e CRMs** de ponta a ponta
 - 🛠️ Crio **ferramentas de desenvolvedor** (automação, scraping, terminais, APIs)
-- 🤖 Trabalho com **dados e IA aplicada** (Python, scikit-learn, Streamlit, Gemini)
+- 📊 Trabalho com **dados e IA aplicada** (Python, scikit-learn, Streamlit)
 - 🎓 Desenvolvo **plataformas educacionais** e sistemas de gestão
-- 🔬 Também faço **pesquisa acadêmica** que vira software (projeto MUSA)
+- 🤝 Contribuo **como programador** em projetos de pesquisa e impacto social
+
+> ℹ️ **Sobre autoria.** Alguns repositórios aqui são **projetos institucionais ou de terceiros nos quais atuo como desenvolvedor** — por exemplo, o **MUSA (ArteCeb)**. Nesses casos, **eu escrevo o código**, mas a **ideia, a pesquisa, a coordenação e a propriedade são dos idealizadores** (as pessoas que aparecem na página do projeto). Não sou fundador nem dono desses projetos.
 
 Acredito que um bom produto é a soma de **código limpo, design cuidado e propósito**.
 
@@ -53,8 +55,11 @@ Acredito que um bom produto é a soma de **código limpo, design cuidado e prop�
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**Ferramentas & Infra**
+**IA & Ferramentas**
 
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square)
+![Kimi](https://img.shields.io/badge/Kimi-000000?style=flat-square)
+![NVIDIA NIM](https://img.shields.io/badge/NVIDIA%20NIM-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -110,14 +115,14 @@ Acredito que um bom produto é a soma de **código limpo, design cuidado e prop�
 | [**Motion Project**](https://github.com/Wlissesdev/motion-project) | Animação 3D low-poly (explica o que é uma API) renderizada quadro a quadro | Three.js · Playwright |
 | [**Neymar Portfolio**](https://github.com/Wlissesdev/neymar_portfolio) | Portfólio interativo 3D sobre a carreira de Neymar Jr. | React · Three.js · Framer Motion |
 
-### 🔬 Pesquisa & Impacto Social
+### 🤝 Contribuições (projetos de terceiros em que atuo como desenvolvedor)
 
-| Projeto | Descrição | Stack |
+| Projeto | Meu papel | Stack |
 |---|---|---|
-| [**MUSA · App**](https://github.com/Wlissesdev/musa-app) | Diário digital e PWA de cuidado e saúde mental feminina, 100% offline | JS · PWA |
-| [**MUSA · Site**](https://github.com/Wlissesdev/musa-site) | Site institucional da pesquisa (literatura comparada e saúde mental) | HTML · CSS · JS |
+| [**MUSA · App**](https://github.com/Wlissesdev/musa-app) | Desenvolvedor do app (diário digital/PWA offline-first) — projeto de pesquisa da **ArteCeb**, cuja autoria é dos idealizadores | JS · PWA |
+| [**MUSA · Site**](https://github.com/Wlissesdev/musa-site) | Desenvolvedor do site institucional da pesquisa (literatura comparada e saúde mental) | HTML · CSS · JS |
 
-🔗 **Site da pesquisa:** [musazip-ten.vercel.app](https://musazip-ten.vercel.app)
+> 🔗 Site do projeto MUSA: [musazip-ten.vercel.app](https://musazip-ten.vercel.app) *(projeto da ArteCeb — eu apenas desenvolvi o software)*
 
 ---
 
@@ -134,9 +139,9 @@ Acredito que um bom produto é a soma de **código limpo, design cuidado e prop�
 
 ## 📫 Contato
 
-- 🌐 **Site:** [musazip-ten.vercel.app](https://musazip-ten.vercel.app)
-- 📸 **Instagram:** [@musa.zip](https://www.instagram.com/musa.zip/)
 - 💬 **WhatsApp:** [falar comigo](https://wa.me/559991628089)
+- 🐙 **GitHub:** [@Wlissesdev](https://github.com/Wlissesdev)
+- 💼 **LinkedIn:** [Wlisses](https://www.linkedin.com/)
 
 <div align="center">
 <sub>Construindo com código, cuidado e propósito. 💜</sub>
