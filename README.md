@@ -97,10 +97,17 @@ Acredito que um bom produto é a soma de **código limpo, design cuidado e prop�
 | [**SAGA**](https://github.com/Wlissesdev/saga2.0) | Sistema de Acompanhamento e Gestão Acadêmica (áreas de aluno e professor) | HTML · JS · Firebase |
 | [**Nexus Learn**](https://github.com/Wlissesdev/nexus-learn) | Plataforma de aprendizado com gamificação e IA | Next.js · Prisma · IA |
 
+### 🎬 Automação & Mídia
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [**Reddit DE Videos**](https://github.com/Wlissesdev/reddit-de-videos) | Automação que gera vídeos verticais estilo Reddit Story (narração TTS + legendas sincronizadas) | Python · FFmpeg · TTS |
+
 ### 🎨 Criativo & Interativo
 
 | Projeto | Descrição | Stack |
 |---|---|---|
+| [**Motion Project**](https://github.com/Wlissesdev/motion-project) | Animação 3D low-poly (explica o que é uma API) renderizada quadro a quadro | Three.js · Playwright |
 | [**Neymar Portfolio**](https://github.com/Wlissesdev/neymar_portfolio) | Portfólio interativo 3D sobre a carreira de Neymar Jr. | React · Three.js · Framer Motion |
 
 ### 🔬 Pesquisa & Impacto Social
