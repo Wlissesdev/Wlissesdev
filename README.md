@@ -97,10 +97,10 @@ O que eu priorizo em cada projeto: **código legível, documentação clara, tes
 | [**Bela Via**](https://github.com/Wlissesdev/bela-via-fashion) | Loja virtual de moda com design system completo | React · Vite · shadcn/ui | [🌐 abrir](https://bela-via-fashion.vercel.app) |
 | [**AssetSlicer API**](https://github.com/Wlissesdev/assetslicer-api) | API para fatiar spritesheets e remover fundo de imagens | Python · FastAPI · OpenCV | — |
 | [**Page Clone Engine**](https://github.com/Wlissesdev/page-clone-engine) | Clonador de páginas web (desktop/tablet/celular) em Node.js | Node.js · Playwright | — |
-| [**SAGA**](https://github.com/Wlissesdev/saga2.0) | Sistema de Acompanhamento e Gestão Acadêmica | HTML · JS · Firebase | [🌐 abrir](https://saga20-sepia.vercel.app) |
+| [**SAGA**](https://github.com/Wlissesdev/saga-academico) | Sistema de Acompanhamento e Gestão Acadêmica | HTML · JS · Firebase | [🌐 abrir](https://saga20-sepia.vercel.app) |
 | [**Nexus Learn**](https://github.com/Wlissesdev/nexus-learn) | Plataforma de aprendizado com gamificação e IA | Next.js · Prisma | — |
 | [**Motion Project**](https://github.com/Wlissesdev/motion-project) | Vídeo 3D low-poly gerado com Three.js e renderizado quadro a quadro | Three.js · Playwright | [🌐 abrir](https://motion-project-neon.vercel.app) |
-| [**Neymar Portfolio**](https://github.com/Wlissesdev/neymar_portfolio) | Portfólio interativo 3D sobre a carreira de Neymar Jr. | React · Three.js | — |
+| [**Neymar Portfolio**](https://github.com/Wlissesdev/neymar-portfolio) | Portfólio interativo 3D sobre a carreira de Neymar Jr. | React · Three.js | — |
 | [**Reddit DE Videos**](https://github.com/Wlissesdev/reddit-de-videos) | Automação de vídeos verticais estilo Reddit Story (TTS + legendas) | Python · FFmpeg | — |
 
 ---
