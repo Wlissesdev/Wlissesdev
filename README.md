@@ -74,31 +74,32 @@ O que eu priorizo em cada projeto: **código legível, documentação clara, tes
 
 ## 📌 Projetos em destaque
 
-| Projeto | O que resolve | Stack |
-|---|---|---|
-| [**TymerBook**](https://github.com/Wlissesdev/saas-barbearia) | SaaS de agendamento e gestão para barbearias e salões — assinaturas, lembretes e WhatsApp | Next.js · Prisma · MySQL |
-| [**BELLAVIA**](https://github.com/Wlissesdev/bellavia-2.0) | E-commerce de calças premium com provador virtual por IA, checkout PIX/cartão e painel admin | React · Supabase |
-| [**Remote Codex**](https://github.com/Wlissesdev/remote-codex) | Terminal completo no navegador com autenticação, sessões e acesso remoto seguro | Node.js · WebSocket · xterm |
-| [**Radar Licitações**](https://github.com/Wlissesdev/radar-licitacoes) | Pipeline que coleta licitações do PNCP e explica editais em linguagem simples para MEIs | Python · Pydantic |
-| [**Parcel Shift**](https://github.com/Wlissesdev/parcelshift) | Jogo Roblox co-op em que a encomenda muda de tamanho, peso e física durante o percurso | Luau · Rojo |
-| [**A Rua das Casas Novas**](https://github.com/Wlissesdev/a-rua-das-casas-novas) | Pipeline de produção de uma série de animação 3D, do roteiro ao vídeo final | Blender · Python · Colab GPU |
+| Projeto | O que resolve | Stack | Demo |
+|---|---|---|---|
+| [**TymerBook**](https://github.com/Wlissesdev/saas-barbearia) | SaaS de agendamento e gestão para barbearias e salões — assinaturas, lembretes e WhatsApp | Next.js · Prisma · MySQL | [🌐 abrir](https://saas-barbearia-nine.vercel.app) |
+| [**BELLAVIA**](https://github.com/Wlissesdev/bellavia-2.0) | E-commerce de calças premium com provador virtual por IA, checkout PIX/cartão e painel admin | React · Supabase | [🌐 abrir](https://bellavia-2-0.vercel.app) |
+| [**Remote Codex**](https://github.com/Wlissesdev/remote-codex) | Terminal completo no navegador com autenticação, sessões e acesso remoto seguro | Node.js · WebSocket · xterm | — |
+| [**Radar Licitações**](https://github.com/Wlissesdev/radar-licitacoes) | Pipeline que coleta licitações do PNCP e explica editais em linguagem simples para MEIs | Python · Pydantic | — |
+| [**Parcel Shift**](https://github.com/Wlissesdev/parcelshift) | Jogo Roblox co-op em que a encomenda muda de tamanho, peso e física durante o percurso | Luau · Rojo | — |
+| [**A Rua das Casas Novas**](https://github.com/Wlissesdev/a-rua-das-casas-novas) | Pipeline de produção de uma série de animação 3D, do roteiro ao vídeo final | Blender · Python · Colab GPU | — |
 
 ---
 
 ## 🗂️ Outros projetos
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [**Prospector IA**](https://github.com/Wlissesdev/prospector-ia) | CRM local de prospecção comercial com IA e revisão humana | Python · Streamlit · scikit-learn |
-| [**Munik Beauty Hub**](https://github.com/Wlissesdev/munik-beauty-hub) | CRM completo para salões de beleza (clientes, agenda, estoque, campanhas) | React · Supabase |
-| [**PlantaHoje**](https://github.com/Wlissesdev/shift-sure) | Plataforma de troca e substituição de plantões médicos | React · Supabase |
-| [**Bela Via**](https://github.com/Wlissesdev/bela-via-fashion) | Loja virtual de moda com design system completo | React · Vite · shadcn/ui |
-| [**AssetSlicer API**](https://github.com/Wlissesdev/assetslicer-api) | API para fatiar spritesheets e remover fundo de imagens | Python · FastAPI · OpenCV |
-| [**Page Clone Engine**](https://github.com/Wlissesdev/page-clone-engine) | Clonador de páginas web (desktop/tablet/celular) em Node.js | Node.js · Playwright |
-| [**SAGA**](https://github.com/Wlissesdev/saga2.0) | Sistema de Acompanhamento e Gestão Acadêmica | HTML · JS · Firebase |
-| [**Nexus Learn**](https://github.com/Wlissesdev/nexus-learn) | Plataforma de aprendizado com gamificação e IA | Next.js · Prisma |
-| [**Neymar Portfolio**](https://github.com/Wlissesdev/neymar_portfolio) | Portfólio interativo 3D sobre a carreira de Neymar Jr. | React · Three.js |
-| [**Reddit DE Videos**](https://github.com/Wlissesdev/reddit-de-videos) | Automação de vídeos verticais estilo Reddit Story (TTS + legendas) | Python · FFmpeg |
+| Projeto | Descrição | Stack | Demo |
+|---|---|---|---|
+| [**Prospector IA**](https://github.com/Wlissesdev/prospector-ia) | CRM local de prospecção comercial com IA e revisão humana | Python · Streamlit · scikit-learn | — |
+| [**Munik Beauty Hub**](https://github.com/Wlissesdev/munik-beauty-hub) | CRM completo para salões de beleza (clientes, agenda, estoque, campanhas) | React · Supabase | — |
+| [**PlantaHoje**](https://github.com/Wlissesdev/shift-sure) | Plataforma de troca e substituição de plantões médicos | React · Supabase | — |
+| [**Bela Via**](https://github.com/Wlissesdev/bela-via-fashion) | Loja virtual de moda com design system completo | React · Vite · shadcn/ui | [🌐 abrir](https://bela-via-fashion.vercel.app) |
+| [**AssetSlicer API**](https://github.com/Wlissesdev/assetslicer-api) | API para fatiar spritesheets e remover fundo de imagens | Python · FastAPI · OpenCV | — |
+| [**Page Clone Engine**](https://github.com/Wlissesdev/page-clone-engine) | Clonador de páginas web (desktop/tablet/celular) em Node.js | Node.js · Playwright | — |
+| [**SAGA**](https://github.com/Wlissesdev/saga2.0) | Sistema de Acompanhamento e Gestão Acadêmica | HTML · JS · Firebase | [🌐 abrir](https://saga20-sepia.vercel.app) |
+| [**Nexus Learn**](https://github.com/Wlissesdev/nexus-learn) | Plataforma de aprendizado com gamificação e IA | Next.js · Prisma | — |
+| [**Motion Project**](https://github.com/Wlissesdev/motion-project) | Vídeo 3D low-poly gerado com Three.js e renderizado quadro a quadro | Three.js · Playwright | [🌐 abrir](https://motion-project-neon.vercel.app) |
+| [**Neymar Portfolio**](https://github.com/Wlissesdev/neymar_portfolio) | Portfólio interativo 3D sobre a carreira de Neymar Jr. | React · Three.js | — |
+| [**Reddit DE Videos**](https://github.com/Wlissesdev/reddit-de-videos) | Automação de vídeos verticais estilo Reddit Story (TTS + legendas) | Python · FFmpeg | — |
 
 ---
 
@@ -106,10 +107,10 @@ O que eu priorizo em cada projeto: **código legível, documentação clara, tes
 
 Projetos institucionais ou de terceiros em que atuo **como desenvolvedor**:
 
-| Projeto | Meu papel | Stack |
-|---|---|---|
-| [**MUSA · App**](https://github.com/Wlissesdev/musa-app) | Desenvolvedor do app (diário digital/PWA offline-first) | JS · PWA |
-| [**MUSA · Site**](https://github.com/Wlissesdev/musa-site) | Desenvolvedor do site institucional da pesquisa | HTML · CSS · JS |
+| Projeto | Meu papel | Stack | Demo |
+|---|---|---|---|
+| [**MUSA · App**](https://github.com/Wlissesdev/musa-app) | Desenvolvedor do app (diário digital/PWA offline-first) | JS · PWA | [🌐 abrir](https://musa-app-bice.vercel.app) |
+| [**MUSA · Site**](https://github.com/Wlissesdev/musa-site) | Desenvolvedor do site institucional da pesquisa | HTML · CSS · JS | [🌐 abrir](https://musazip-ten.vercel.app) |
 
 > **Nota de autoria:** o **MUSA** é um projeto de pesquisa da **ArteCeb**. Eu **escrevi o software** (app e site), mas a **ideia, a pesquisa, a coordenação e a propriedade são dos idealizadores** — as pessoas que aparecem na página do projeto. Não sou fundador nem dono.
 >
