@@ -1,32 +1,37 @@
 <div align="center">
 
-# Olá, eu sou o Wlisses 👋
+# Wlisses
 
-**Desenvolvedor Full-Stack** — construo produtos web completos, do front-end à infraestrutura, com uso intenso de IA no processo (DeepSeek · Kimi · Nvidia NIM).
+**Desenvolvedor Full-Stack** · Web apps, SaaS, automações e dados/IA
 
-Aplicações, SaaS, ferramentas de dev, automações e dados/IA. Bem-vindo(a) ao meu GitHub!
+Construo produtos de ponta a ponta — do front-end à infraestrutura — com uso intensivo de IA no processo.
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-fale_comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5599981563369)
 [![GitHub](https://img.shields.io/badge/GitHub-Wlissesdev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wlissesdev)
+
+📍 Brasil &nbsp;·&nbsp; 🟢 Aberto a oportunidades
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+## 👋 Sobre
 
-Sou **desenvolvedor full-stack** e gosto de pegar uma ideia e **levá-la até o produto final** — interface, back-end, banco de dados, integrações e deploy.
+Sou **desenvolvedor full-stack** e gosto de levar uma ideia do zero até um **produto funcionando**: interface, back-end, banco de dados, integrações, automação e deploy.
 
-- 🤖 **Desenvolvimento assistido por IA** — uso no dia a dia **DeepSeek**, **Kimi** e **Nvidia NIM** para acelerar o trabalho e elevar a qualidade do que entrego
-- 🛍️ Construo **SaaS, e-commerces e CRMs** de ponta a ponta
-- 🛠️ Crio **ferramentas de desenvolvedor** (automação, scraping, terminais, APIs)
-- 📊 Trabalho com **dados e IA aplicada** (Python, scikit-learn, Streamlit)
-- 🎓 Desenvolvo **plataformas educacionais** e sistemas de gestão
-- 🤝 Contribuo **como programador** em projetos de pesquisa e impacto social
+Trabalho com **React/Next.js + TypeScript** no front-end, **Node.js e Python** no back-end, **Supabase / PostgreSQL / MySQL / SQLite** em dados, e deploy em **Vercel / Docker**. Uso **IA como alavanca** no dia a dia — **DeepSeek, Kimi e Nvidia NIM** — para entregar mais rápido sem abrir mão de qualidade.
 
-> ℹ️ **Sobre autoria.** Alguns repositórios aqui são **projetos institucionais ou de terceiros nos quais atuo como desenvolvedor** — por exemplo, o **MUSA (ArteCeb)**. Nesses casos, **eu escrevo o código**, mas a **ideia, a pesquisa, a coordenação e a propriedade são dos idealizadores** (as pessoas que aparecem na página do projeto). Não sou fundador nem dono desses projetos.
+O que eu priorizo em cada projeto: **código legível, documentação clara, testes quando faz sentido, segurança** (autenticação, validação, headers) e **algo que realmente roda**.
 
-Acredito que um bom produto é a soma de **código limpo, design cuidado e propósito**.
+---
+
+## 🎯 O que eu entrego
+
+- **SaaS e CRMs completos** — autenticação, dashboards, permissões, gestão e cobrança
+- **E-commerce e landing pages** — catálogo, carrinho, checkout e painel administrativo
+- **Ferramentas de desenvolvedor** — automação, scraping, terminais web e APIs
+- **Dados e IA aplicada** — pipelines, scoring, integração com LLMs e dashboards
+- **Automação de mídia** — geração de vídeo/conteúdo e pipelines 3D
 
 ---
 
@@ -50,11 +55,11 @@ Acredito que um bom produto é a soma de **código limpo, design cuidado e prop�
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**IA & Ferramentas**
+**IA, Ferramentas & Infra**
 
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square)
 ![Kimi](https://img.shields.io/badge/Kimi-000000?style=flat-square)
@@ -67,71 +72,52 @@ Acredito que um bom produto é a soma de **código limpo, design cuidado e prop�
 
 ---
 
-## 🗂️ Projetos por categoria
+## 📌 Projetos em destaque
 
-### 🛍️ SaaS & E-commerce
-
-| Projeto | Descrição | Stack |
+| Projeto | O que resolve | Stack |
 |---|---|---|
-| [**TymerBook**](https://github.com/Wlissesdev/saas-barbearia) | SaaS de agendamento e gestão para barbearias e salões (assinaturas, WhatsApp, lembretes) | Next.js · Prisma · MySQL |
-| [**BELLAVIA**](https://github.com/Wlissesdev/bellavia-2.0) | E-commerce de calças premium com provador virtual por IA e painel admin | React · Supabase |
-| [**Munik Beauty Hub**](https://github.com/Wlissesdev/munik-beauty-hub) | CRM completo para salões de beleza (clientes, agenda, estoque, campanhas) | React · Supabase |
-| [**PlantaHoje**](https://github.com/Wlissesdev/shift-sure) | Plataforma de troca e substituição de plantões médicos | React · Supabase |
-| [**Bela Via**](https://github.com/Wlissesdev/bela-via-fashion) | Loja virtual de moda com design system completo | React · Vite · shadcn/ui |
+| [**TymerBook**](https://github.com/Wlissesdev/saas-barbearia) | SaaS de agendamento e gestão para barbearias e salões — assinaturas, lembretes e WhatsApp | Next.js · Prisma · MySQL |
+| [**BELLAVIA**](https://github.com/Wlissesdev/bellavia-2.0) | E-commerce de calças premium com provador virtual por IA, checkout PIX/cartão e painel admin | React · Supabase |
+| [**Remote Codex**](https://github.com/Wlissesdev/remote-codex) | Terminal completo no navegador com autenticação, sessões e acesso remoto seguro | Node.js · WebSocket · xterm |
+| [**Radar Licitações**](https://github.com/Wlissesdev/radar-licitacoes) | Pipeline que coleta licitações do PNCP e explica editais em linguagem simples para MEIs | Python · Pydantic |
+| [**Parcel Shift**](https://github.com/Wlissesdev/parcelshift) | Jogo Roblox co-op em que a encomenda muda de tamanho, peso e física durante o percurso | Luau · Rojo |
+| [**A Rua das Casas Novas**](https://github.com/Wlissesdev/a-rua-das-casas-novas) | Pipeline de produção de uma série de animação 3D, do roteiro ao vídeo final | Blender · Python · Colab GPU |
 
-### 🛠️ Ferramentas de Desenvolvedor
+---
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [**Page Clone Engine**](https://github.com/Wlissesdev/page-clone-engine) | Clonador de páginas web (captura desktop/tablet/celular e empacota) | Node.js · Playwright |
-| [**Remote Codex**](https://github.com/Wlissesdev/remote-codex) | Terminal completo direto no navegador, com acesso remoto | Node.js · xterm.js · Tailscale |
-| [**AssetSlicer API**](https://github.com/Wlissesdev/assetslicer-api) | API para fatiar spritesheets e remover fundo de imagens | Python · FastAPI · OpenCV |
-
-### 🤖 IA & Dados
+## 🗂️ Outros projetos
 
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [**Prospector IA**](https://github.com/Wlissesdev/prospector-ia) | CRM local de prospecção comercial com IA e revisão humana | Python · Streamlit · scikit-learn |
-| [**Radar Licitações**](https://github.com/Wlissesdev/radar-licitacoes) | Radar de compras públicas (PNCP) que explica editais em linguagem simples para MEIs | Python · Pydantic |
-
-### 🎓 Educação
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [**SAGA**](https://github.com/Wlissesdev/saga2.0) | Sistema de Acompanhamento e Gestão Acadêmica (áreas de aluno e professor) | HTML · JS · Firebase |
-| [**Nexus Learn**](https://github.com/Wlissesdev/nexus-learn) | Plataforma de aprendizado com gamificação e IA | Next.js · Prisma · IA |
-
-### 🎮 Jogos
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [**Parcel Shift**](https://github.com/Wlissesdev/parcelshift) | Jogo Roblox co-op de entrega em que a encomenda muda de tamanho, peso e física no percurso | Luau · Rojo |
-
-### 🎬 Automação & Mídia
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [**Reddit DE Videos**](https://github.com/Wlissesdev/reddit-de-videos) | Automação que gera vídeos verticais estilo Reddit Story (narração TTS + legendas sincronizadas) | Python · FFmpeg · TTS |
-
-### 🎨 Criativo & Interativo
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [**Motion Project**](https://github.com/Wlissesdev/motion-project) | Animação 3D low-poly (explica o que é uma API) renderizada quadro a quadro | Three.js · Playwright |
-| [**Neymar Portfolio**](https://github.com/Wlissesdev/neymar_portfolio) | Portfólio interativo 3D sobre a carreira de Neymar Jr. | React · Three.js · Framer Motion |
-
-### 🤝 Contribuições (projetos de terceiros em que atuo como desenvolvedor)
-
-| Projeto | Meu papel | Stack |
-|---|---|---|
-| [**MUSA · App**](https://github.com/Wlissesdev/musa-app) | Desenvolvedor do app (diário digital/PWA offline-first) — projeto de pesquisa da **ArteCeb**, cuja autoria é dos idealizadores | JS · PWA |
-| [**MUSA · Site**](https://github.com/Wlissesdev/musa-site) | Desenvolvedor do site institucional da pesquisa (literatura comparada e saúde mental) | HTML · CSS · JS |
-
-> 🔗 Site do projeto MUSA: [musazip-ten.vercel.app](https://musazip-ten.vercel.app) *(projeto da ArteCeb — eu apenas desenvolvi o software)*
+| [**Munik Beauty Hub**](https://github.com/Wlissesdev/munik-beauty-hub) | CRM completo para salões de beleza (clientes, agenda, estoque, campanhas) | React · Supabase |
+| [**PlantaHoje**](https://github.com/Wlissesdev/shift-sure) | Plataforma de troca e substituição de plantões médicos | React · Supabase |
+| [**Bela Via**](https://github.com/Wlissesdev/bela-via-fashion) | Loja virtual de moda com design system completo | React · Vite · shadcn/ui |
+| [**AssetSlicer API**](https://github.com/Wlissesdev/assetslicer-api) | API para fatiar spritesheets e remover fundo de imagens | Python · FastAPI · OpenCV |
+| [**Page Clone Engine**](https://github.com/Wlissesdev/page-clone-engine) | Clonador de páginas web (desktop/tablet/celular) em Node.js | Node.js · Playwright |
+| [**SAGA**](https://github.com/Wlissesdev/saga2.0) | Sistema de Acompanhamento e Gestão Acadêmica | HTML · JS · Firebase |
+| [**Nexus Learn**](https://github.com/Wlissesdev/nexus-learn) | Plataforma de aprendizado com gamificação e IA | Next.js · Prisma |
+| [**Neymar Portfolio**](https://github.com/Wlissesdev/neymar_portfolio) | Portfólio interativo 3D sobre a carreira de Neymar Jr. | React · Three.js |
+| [**Reddit DE Videos**](https://github.com/Wlissesdev/reddit-de-videos) | Automação de vídeos verticais estilo Reddit Story (TTS + legendas) | Python · FFmpeg |
 
 ---
 
-## 📊 Estatísticas
+## 🤝 Contribuições
+
+Projetos institucionais ou de terceiros em que atuo **como desenvolvedor**:
+
+| Projeto | Meu papel | Stack |
+|---|---|---|
+| [**MUSA · App**](https://github.com/Wlissesdev/musa-app) | Desenvolvedor do app (diário digital/PWA offline-first) | JS · PWA |
+| [**MUSA · Site**](https://github.com/Wlissesdev/musa-site) | Desenvolvedor do site institucional da pesquisa | HTML · CSS · JS |
+
+> **Nota de autoria:** o **MUSA** é um projeto de pesquisa da **ArteCeb**. Eu **escrevi o software** (app e site), mas a **ideia, a pesquisa, a coordenação e a propriedade são dos idealizadores** — as pessoas que aparecem na página do projeto. Não sou fundador nem dono.
+>
+> 🔗 Site do projeto: [musazip-ten.vercel.app](https://musazip-ten.vercel.app)
+
+---
+
+## 📊 GitHub
 
 <div align="center">
 
@@ -148,5 +134,5 @@ Acredito que um bom produto é a soma de **código limpo, design cuidado e prop�
 - 🐙 **GitHub:** [@Wlissesdev](https://github.com/Wlissesdev)
 
 <div align="center">
-<sub>Construindo com código, cuidado e propósito. 💜</sub>
+<sub>Construindo produtos com código, cuidado e propósito. 💜</sub>
 </div>
